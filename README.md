@@ -1,2 +1,1 @@
-# final-web-design
-research web design
+# ThesisAQM
